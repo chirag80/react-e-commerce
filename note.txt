@@ -1,0 +1,4 @@
+- featured products display on home page
+- filters implementation
+- add to cart
+- login/registeration
